@@ -1,0 +1,23 @@
+{
+  "id_": "AF7E290F1",
+  "segments_metadata": {
+    "IECFFF4B7": {
+      "type": "Root_Segment",
+      "relation": "Source",
+      "lang": "Tibetan",
+      "base": "3366",
+      "layer": "Root_Segment-c04.json"
+    },
+    "I6A4B5C56": {
+      "type": "Commentary",
+      "relation": "Target",
+      "lang": "Tibetan",
+      "base": "bce6",
+      "layer": "Commentary-3a8.json"
+    }
+  },
+  "source_metadata": {
+    "type": "Root_Commentary",
+    "source": "D3879-final"
+  }
+}
